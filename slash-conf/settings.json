@@ -1,0 +1,7 @@
+{
+  "author":      "Chris Jacobs",
+  "description": "HLS Video Demo.",
+  "name":        "HLS Demo",
+  "url":         "hls/",
+  "repo_url":    "slashnet/hls-demo"
+}
